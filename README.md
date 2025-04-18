@@ -4,4 +4,4 @@
   Need to convert array times back to origional EST times
 
 ## End Goal
-  Needs to display clock that looks nice as well as a box depicting the times and zones in which items are about to spawn, as well as they chance they have to appear
+  Needs to display clock that looks nice as well as a box depicting the times and zones in which items are about to spawn, as well as the chance they have to appear
